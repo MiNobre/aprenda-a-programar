@@ -1,0 +1,54 @@
+shaie@DESKTOP-UL4U9HL MINGW64 ~/desktop/dia-1-primeiros-passos/tarefa-dia-1
+$ history
+    1  git --version
+    2  node --version
+    3  pwd
+    4  cd
+    5  pwd
+    6  ls
+    7  cd
+    8  clear
+    9  ls
+   10  cd Desktop
+   11  pwd
+   12  clear
+   13  pwd
+   14  Mkdir dia-1-primeiros-passos
+   15  ls
+   16  clear
+   17  cd dia-1-primeiros-passos
+   18  mkdir tarefa-dia-1.md
+   19  ls
+   20  pwd
+   21  mkdir tarefa-dia-1
+   22  pwd
+   23  cd tarefa-dia-1
+   24  pwd
+   25  ls
+   26  CD Desktop
+   27  cd desktop
+   28  pwd
+   29  mkdir dia-1-primeiros-passos
+   30  cd dia-1-primeiros-passos
+   31  mkdir tarefa-dia-1
+   32  cd tarefa-dia-1
+   33  pwd
+   34  Mkdir resumo-dia-1.md
+   35  Mkdir resumo-dia-1.md
+   36  pwd
+   37  pwd
+   38  touch resumo-dia-1.md
+   39  cd resumo-dia-1.md
+   40  head -5
+   41  head -5
+   42  Pwd
+   43  Head -5
+   44  pwd
+   45  Head -5 resumo-dia-1.md
+   46  grep programção resumo-dia-1.md
+   47  grep programação resumo-dia-1.md
+   48  grep '-' resumo-dia-1.md
+   49  pwd
+   50  history
+
+shaie@DESKTOP-UL4U9HL MINGW64 ~/desktop/dia-1-primeiros-passos/tarefa-dia-1
